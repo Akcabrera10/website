@@ -224,7 +224,7 @@ function App() {
             </div>
             <div ref={workRef} className="section">
             {showWork && (<h2 className="float-text2 sech2">About Me.</h2>)}
-            {showWork && (<p className="float-text2 secp2">I'm a recent graduate of computer engineering technology from Conestoga College. I'm a self-taught person and I love learning new technologies as soon as I hear about them! I have great interest in embedded systems and web development. </p>)}
+            {showWork && (<p className="float-text2 secp2">I'm a self-taught person and I love learning new technologies as soon as I hear about them! I have great interest in embedded systems and web development. </p>)}
             <br></br>
             {showWork && (<p className="float-text2 secp3">Technologies I've been working with:</p>)}
             <br></br>
